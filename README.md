@@ -49,5 +49,10 @@ Run _run.py_ to automatically launch both the server and the client:
 python run.py
 ```
 
+# ScreenShots
+![2025-03-21_20-57-55](https://github.com/user-attachments/assets/498b9c92-57ac-4b6a-a111-50361167a062)
+![image](https://github.com/user-attachments/assets/1bd42861-1d67-4dc2-87a7-314025c04a7d)
+
+
 # License
 This project is licensed under the MIT license.
